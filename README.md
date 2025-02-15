@@ -3,9 +3,7 @@
 I'm a 4th-year **Computer Science + Data Science** student at **UBC**.
 
 ### Languages & Frameworks
-<p>
-  <img src="https://skillicons.dev/icons?i=java,js,ts,python,c,cpp,php,html,css,scss,tailwind,react,angular,redux,d3,r,matlab,sklearn,jest,postman,github,bitbucket,vscode,webstorm,idea,pycharm" />
-</p>
+[![My Skills](https://skillicons.dev/icons?i=java,js,ts,python,c,cpp,php,html,css,scss,tailwind,react,angular,redux,d3,r,matlab,sklearn,jest,postman,github,bitbucket,vscode,webstorm,idea,pycharm)](https://skillicons.dev)
 
 ### Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jessiesheng/)
